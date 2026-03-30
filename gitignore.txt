@@ -1,0 +1,5 @@
+yoruba-thesis/
+EDA/llmSetup
+Combined/*.csv
+*syllabified.csv
+*ngramified.csv
